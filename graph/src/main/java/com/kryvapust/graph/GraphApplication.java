@@ -8,6 +8,6 @@ public class GraphApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GraphApplication.class, args);
-    }
 
+    }
 }
